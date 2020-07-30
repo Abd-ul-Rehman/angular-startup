@@ -1,3 +1,6 @@
+# Note Make sure Node.JS installed on your machine
+To install node JS- <a href="https://nodejs.org/en/">Node.JS</a>
+
 # MainApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
